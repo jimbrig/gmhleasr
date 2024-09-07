@@ -1,3 +1,7 @@
 ^gmhleasr\.Rproj$
 ^\.Rproj\.user$
 ^dev$
+^\.lintr$
+^codecov\.yml$
+^\.covrignore$
+^\.github$
