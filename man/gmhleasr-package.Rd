@@ -12,6 +12,7 @@ Provides a Shiny dashboard and API client for interacting with GMH Communities l
 Useful links:
 \itemize{
   \item \url{https://github.com/jimbrig/gmhleasr}
+  \item \url{http://docs.jimbrig.com/gmhleasr/}
   \item Report bugs at \url{https://github.com/jimbrig/gmhleasr/issues}
 }
 
