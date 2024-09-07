@@ -8,6 +8,14 @@
 \description{
 Provides a Shiny dashboard and API client for interacting with GMH Communities leasing data via the Entrata API. Includes functions for API authentication, data retrieval, and data visualization.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/jimbrig/gmhleasr}
+  \item Report bugs at \url{https://github.com/jimbrig/gmhleasr/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Jimmy Briggs \email{jimmy.briggs@jimbrig.com} (\href{https://orcid.org/0000-0002-7489-8787}{ORCID})
 
