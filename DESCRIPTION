@@ -11,7 +11,7 @@ Description: Provides a Shiny dashboard and API client for interacting
     with GMH Communities leasing data via the Entrata API. Includes
     functions for API authentication, data retrieval, and data
     visualization.
-License: MIT + file LICENSE
+License: file LICENSE
 Imports: 
     glue,
     rlang,
