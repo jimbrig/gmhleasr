@@ -20,3 +20,9 @@ Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Suggests: 
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+URL: https://github.com/jimbrig/gmhleasr
+BugReports: https://github.com/jimbrig/gmhleasr/issues
